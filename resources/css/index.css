@@ -3,21 +3,16 @@ html {
     padding: 0;
 }
 
-body {
+.lists {
+    margin: 1rem;
+    padding: 2rem 2rem;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: 0 auto;
 }
 
-div {
+.sk, .en {
     display: inline-block;
-    box-sizing: border-box;
-    width: 540px;
-    height: 700px;
-    margin: 30px;
-    max-width: 1500px;
-    padding-bottom: 20px;
+    padding: 1rem 1rem;
+    max-width: 550px;
 }
 
 p {
@@ -32,6 +27,6 @@ p {
 }
 
 .sk {
-    padding-top: 18px;
     border: solid 2px gray;
+    padding-top: 34px;
 }
