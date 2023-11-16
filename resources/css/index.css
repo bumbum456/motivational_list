@@ -16,6 +16,7 @@ div {
     width: 540px;
     height: 650px;
     margin: 30px;
+    max-width: 1000px;
 }
 
 p {
